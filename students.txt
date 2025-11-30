@@ -1,0 +1,70 @@
+Name: Liam
+GPA: 3
+Graduation Year: 2022
+Graduation Semester: Fall
+Enrollment Year: 2018
+Graduation Status: 
+------------------------
+Name: Noah
+GPA: 4
+Graduation Year: 2023
+Graduation Semester: Spring
+Enrollment Year: 2019
+Graduation Status: 
+------------------------
+Name: Ella
+GPA: 3
+Graduation Year: 2024
+Graduation Semester: Fall
+Enrollment Year: 2020
+Graduation Status: 
+------------------------
+Name: Mia
+GPA: 4
+Graduation Year: 2025
+Graduation Semester: Spring
+Enrollment Year: 2021
+Graduation Status: 
+------------------------
+Name: Liam
+GPA: 3
+Graduation Year: 2026
+Graduation Semester: Fall
+Enrollment Year: 2022
+Graduation Status: 
+------------------------
+Name: Benjamin
+GPA: 3
+Graduation Year: 2022
+Graduation Semester: Fall
+Enrollment Year: 2018
+Graduation Status: 
+------------------------
+Name: Henry
+GPA: 4
+Graduation Year: 2023
+Graduation Semester: Spring
+Enrollment Year: 2019
+Graduation Status: 
+------------------------
+Name: Henry
+GPA: 3
+Graduation Year: 2024
+Graduation Semester: Fall
+Enrollment Year: 2020
+Graduation Status: 
+------------------------
+Name: James
+GPA: 4
+Graduation Year: 2025
+Graduation Semester: Spring
+Enrollment Year: 2021
+Graduation Status: 
+------------------------
+Name: Oliver
+GPA: 3
+Graduation Year: 2026
+Graduation Semester: Fall
+Enrollment Year: 2022
+Graduation Status: 
+------------------------
